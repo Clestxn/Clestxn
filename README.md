@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Software Multiplataforma`**
 
-Me chamo Cleston Kenji Maruyama, tenho 23 anos e sou natural de Matão - SP. Atualmente, estou cursando o último semestre de Desenvolvimento de Software Multiplataforma na FATEC Luiz Marchesan.
+Me chamo Cleston Kenji Maruyama, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando o último semestre de Desenvolvimento de Software Multiplataforma na FATEC Luiz Marchesan.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kenjimaruyama/" target="_blank">
